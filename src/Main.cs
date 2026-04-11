@@ -4,7 +4,7 @@ using TaleWorlds.MountAndBlade;
 namespace RagdollFix
 {
     public class Main : MBSubModuleBase
-    {
+    {   //Harmony patch entry point
         protected override void OnSubModuleLoad()
         {
             var harmony = new Harmony("com.yourname.ragdollfix");
