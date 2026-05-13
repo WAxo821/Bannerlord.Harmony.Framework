@@ -1,5 +1,5 @@
 # RagdollFix
-Alightweight Harmony patch for Mount&Blade II:Banneerlord(v1.3.14) that caps ragdoll velocity to reduce the"launching corpse"effect.
+A lightweight Harmony patch for Mount&Blade II:Banneerlord(v1.3.14) that caps ragdoll velocity to reduce the"launching corpse"effect.
 ## What it does
 Vanilla Bannerlord ragdoll work fine, but the corpses feel too soft and floppy just like noddles. This mod adjusts the "Linear velocity limit" to give
 dead bodies more weight and rigidity, making death feel more impactful.
